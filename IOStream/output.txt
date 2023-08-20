@@ -1,0 +1,1 @@
+Hello, this is a simple file writing example in Java!
